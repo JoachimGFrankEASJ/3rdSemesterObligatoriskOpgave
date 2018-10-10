@@ -1,0 +1,21 @@
+C:\Users\joach\source\repos\3rdSemesterMandatoryAssignment\TCPClient\bin\Debug\netcoreapp2.0\TCPClient.deps.json
+C:\Users\joach\source\repos\3rdSemesterMandatoryAssignment\TCPClient\bin\Debug\netcoreapp2.0\TCPClient.runtimeconfig.json
+C:\Users\joach\source\repos\3rdSemesterMandatoryAssignment\TCPClient\bin\Debug\netcoreapp2.0\TCPClient.runtimeconfig.dev.json
+C:\Users\joach\source\repos\3rdSemesterMandatoryAssignment\TCPClient\bin\Debug\netcoreapp2.0\TCPClient.dll
+C:\Users\joach\source\repos\3rdSemesterMandatoryAssignment\TCPClient\bin\Debug\netcoreapp2.0\TCPClient.pdb
+C:\Users\joach\source\repos\3rdSemesterMandatoryAssignment\TCPClient\obj\Debug\netcoreapp2.0\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\joach\source\repos\3rdSemesterMandatoryAssignment\TCPClient\obj\Debug\netcoreapp2.0\TCPClient.AssemblyInfoInputs.cache
+C:\Users\joach\source\repos\3rdSemesterMandatoryAssignment\TCPClient\obj\Debug\netcoreapp2.0\TCPClient.AssemblyInfo.cs
+C:\Users\joach\source\repos\3rdSemesterMandatoryAssignment\TCPClient\obj\Debug\netcoreapp2.0\TCPClient.dll
+C:\Users\joach\source\repos\3rdSemesterMandatoryAssignment\TCPClient\obj\Debug\netcoreapp2.0\TCPClient.pdb
+C:\Users\joach\Desktop\Obligatorisk opgave til tredje semester\3rdSemesterMandatoryAssignment\TCPClient\bin\Debug\netcoreapp2.0\TCPClient.deps.json
+C:\Users\joach\Desktop\Obligatorisk opgave til tredje semester\3rdSemesterMandatoryAssignment\TCPClient\bin\Debug\netcoreapp2.0\TCPClient.runtimeconfig.json
+C:\Users\joach\Desktop\Obligatorisk opgave til tredje semester\3rdSemesterMandatoryAssignment\TCPClient\bin\Debug\netcoreapp2.0\TCPClient.runtimeconfig.dev.json
+C:\Users\joach\Desktop\Obligatorisk opgave til tredje semester\3rdSemesterMandatoryAssignment\TCPClient\bin\Debug\netcoreapp2.0\TCPClient.dll
+C:\Users\joach\Desktop\Obligatorisk opgave til tredje semester\3rdSemesterMandatoryAssignment\TCPClient\bin\Debug\netcoreapp2.0\TCPClient.pdb
+C:\Users\joach\Desktop\Obligatorisk opgave til tredje semester\3rdSemesterMandatoryAssignment\TCPClient\obj\Debug\netcoreapp2.0\TCPClient.csprojResolveAssemblyReference.cache
+C:\Users\joach\Desktop\Obligatorisk opgave til tredje semester\3rdSemesterMandatoryAssignment\TCPClient\obj\Debug\netcoreapp2.0\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\joach\Desktop\Obligatorisk opgave til tredje semester\3rdSemesterMandatoryAssignment\TCPClient\obj\Debug\netcoreapp2.0\TCPClient.AssemblyInfoInputs.cache
+C:\Users\joach\Desktop\Obligatorisk opgave til tredje semester\3rdSemesterMandatoryAssignment\TCPClient\obj\Debug\netcoreapp2.0\TCPClient.AssemblyInfo.cs
+C:\Users\joach\Desktop\Obligatorisk opgave til tredje semester\3rdSemesterMandatoryAssignment\TCPClient\obj\Debug\netcoreapp2.0\TCPClient.dll
+C:\Users\joach\Desktop\Obligatorisk opgave til tredje semester\3rdSemesterMandatoryAssignment\TCPClient\obj\Debug\netcoreapp2.0\TCPClient.pdb

@@ -1,0 +1,28 @@
+C:\Users\joach\source\repos\3rdSemesterMandatoryAssignment\TCPServer\bin\Debug\netcoreapp2.0\TCPServer.deps.json
+C:\Users\joach\source\repos\3rdSemesterMandatoryAssignment\TCPServer\bin\Debug\netcoreapp2.0\TCPServer.runtimeconfig.json
+C:\Users\joach\source\repos\3rdSemesterMandatoryAssignment\TCPServer\bin\Debug\netcoreapp2.0\TCPServer.runtimeconfig.dev.json
+C:\Users\joach\source\repos\3rdSemesterMandatoryAssignment\TCPServer\bin\Debug\netcoreapp2.0\TCPServer.dll
+C:\Users\joach\source\repos\3rdSemesterMandatoryAssignment\TCPServer\bin\Debug\netcoreapp2.0\TCPServer.pdb
+C:\Users\joach\source\repos\3rdSemesterMandatoryAssignment\TCPServer\bin\Debug\netcoreapp2.0\ModelLibrary.dll
+C:\Users\joach\source\repos\3rdSemesterMandatoryAssignment\TCPServer\bin\Debug\netcoreapp2.0\ModelLibrary.pdb
+C:\Users\joach\source\repos\3rdSemesterMandatoryAssignment\TCPServer\obj\Debug\netcoreapp2.0\TCPServer.csprojResolveAssemblyReference.cache
+C:\Users\joach\source\repos\3rdSemesterMandatoryAssignment\TCPServer\obj\Debug\netcoreapp2.0\TCPServer.csproj.CoreCompileInputs.cache
+C:\Users\joach\source\repos\3rdSemesterMandatoryAssignment\TCPServer\obj\Debug\netcoreapp2.0\TCPServer.AssemblyInfoInputs.cache
+C:\Users\joach\source\repos\3rdSemesterMandatoryAssignment\TCPServer\obj\Debug\netcoreapp2.0\TCPServer.AssemblyInfo.cs
+C:\Users\joach\source\repos\3rdSemesterMandatoryAssignment\TCPServer\obj\Debug\netcoreapp2.0\TCPServer.csproj.CopyComplete
+C:\Users\joach\source\repos\3rdSemesterMandatoryAssignment\TCPServer\obj\Debug\netcoreapp2.0\TCPServer.dll
+C:\Users\joach\source\repos\3rdSemesterMandatoryAssignment\TCPServer\obj\Debug\netcoreapp2.0\TCPServer.pdb
+C:\Users\joach\Desktop\Obligatorisk opgave til tredje semester\3rdSemesterMandatoryAssignment\TCPServer\bin\Debug\netcoreapp2.0\TCPServer.deps.json
+C:\Users\joach\Desktop\Obligatorisk opgave til tredje semester\3rdSemesterMandatoryAssignment\TCPServer\bin\Debug\netcoreapp2.0\TCPServer.runtimeconfig.json
+C:\Users\joach\Desktop\Obligatorisk opgave til tredje semester\3rdSemesterMandatoryAssignment\TCPServer\bin\Debug\netcoreapp2.0\TCPServer.runtimeconfig.dev.json
+C:\Users\joach\Desktop\Obligatorisk opgave til tredje semester\3rdSemesterMandatoryAssignment\TCPServer\bin\Debug\netcoreapp2.0\TCPServer.dll
+C:\Users\joach\Desktop\Obligatorisk opgave til tredje semester\3rdSemesterMandatoryAssignment\TCPServer\bin\Debug\netcoreapp2.0\TCPServer.pdb
+C:\Users\joach\Desktop\Obligatorisk opgave til tredje semester\3rdSemesterMandatoryAssignment\TCPServer\bin\Debug\netcoreapp2.0\ModelLibrary.dll
+C:\Users\joach\Desktop\Obligatorisk opgave til tredje semester\3rdSemesterMandatoryAssignment\TCPServer\bin\Debug\netcoreapp2.0\ModelLibrary.pdb
+C:\Users\joach\Desktop\Obligatorisk opgave til tredje semester\3rdSemesterMandatoryAssignment\TCPServer\obj\Debug\netcoreapp2.0\TCPServer.csprojResolveAssemblyReference.cache
+C:\Users\joach\Desktop\Obligatorisk opgave til tredje semester\3rdSemesterMandatoryAssignment\TCPServer\obj\Debug\netcoreapp2.0\TCPServer.csproj.CoreCompileInputs.cache
+C:\Users\joach\Desktop\Obligatorisk opgave til tredje semester\3rdSemesterMandatoryAssignment\TCPServer\obj\Debug\netcoreapp2.0\TCPServer.AssemblyInfoInputs.cache
+C:\Users\joach\Desktop\Obligatorisk opgave til tredje semester\3rdSemesterMandatoryAssignment\TCPServer\obj\Debug\netcoreapp2.0\TCPServer.AssemblyInfo.cs
+C:\Users\joach\Desktop\Obligatorisk opgave til tredje semester\3rdSemesterMandatoryAssignment\TCPServer\obj\Debug\netcoreapp2.0\TCPServer.csproj.CopyComplete
+C:\Users\joach\Desktop\Obligatorisk opgave til tredje semester\3rdSemesterMandatoryAssignment\TCPServer\obj\Debug\netcoreapp2.0\TCPServer.dll
+C:\Users\joach\Desktop\Obligatorisk opgave til tredje semester\3rdSemesterMandatoryAssignment\TCPServer\obj\Debug\netcoreapp2.0\TCPServer.pdb
