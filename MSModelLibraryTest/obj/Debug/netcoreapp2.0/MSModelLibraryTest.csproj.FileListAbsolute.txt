@@ -1,0 +1,17 @@
+C:\Users\joach\source\repos\3rdSemesterMandatoryAssignment\MSModelLibraryTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\joach\source\repos\3rdSemesterMandatoryAssignment\MSModelLibraryTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\joach\source\repos\3rdSemesterMandatoryAssignment\MSModelLibraryTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\joach\source\repos\3rdSemesterMandatoryAssignment\MSModelLibraryTest\bin\Debug\netcoreapp2.0\MSModelLibraryTest.deps.json
+C:\Users\joach\source\repos\3rdSemesterMandatoryAssignment\MSModelLibraryTest\bin\Debug\netcoreapp2.0\MSModelLibraryTest.runtimeconfig.json
+C:\Users\joach\source\repos\3rdSemesterMandatoryAssignment\MSModelLibraryTest\bin\Debug\netcoreapp2.0\MSModelLibraryTest.runtimeconfig.dev.json
+C:\Users\joach\source\repos\3rdSemesterMandatoryAssignment\MSModelLibraryTest\bin\Debug\netcoreapp2.0\MSModelLibraryTest.dll
+C:\Users\joach\source\repos\3rdSemesterMandatoryAssignment\MSModelLibraryTest\bin\Debug\netcoreapp2.0\MSModelLibraryTest.pdb
+C:\Users\joach\source\repos\3rdSemesterMandatoryAssignment\MSModelLibraryTest\bin\Debug\netcoreapp2.0\ModelLibrary.dll
+C:\Users\joach\source\repos\3rdSemesterMandatoryAssignment\MSModelLibraryTest\bin\Debug\netcoreapp2.0\ModelLibrary.pdb
+C:\Users\joach\source\repos\3rdSemesterMandatoryAssignment\MSModelLibraryTest\obj\Debug\netcoreapp2.0\MSModelLibraryTest.csprojResolveAssemblyReference.cache
+C:\Users\joach\source\repos\3rdSemesterMandatoryAssignment\MSModelLibraryTest\obj\Debug\netcoreapp2.0\MSModelLibraryTest.csproj.CoreCompileInputs.cache
+C:\Users\joach\source\repos\3rdSemesterMandatoryAssignment\MSModelLibraryTest\obj\Debug\netcoreapp2.0\MSModelLibraryTest.AssemblyInfoInputs.cache
+C:\Users\joach\source\repos\3rdSemesterMandatoryAssignment\MSModelLibraryTest\obj\Debug\netcoreapp2.0\MSModelLibraryTest.AssemblyInfo.cs
+C:\Users\joach\source\repos\3rdSemesterMandatoryAssignment\MSModelLibraryTest\obj\Debug\netcoreapp2.0\MSModelLibraryTest.csproj.CopyComplete
+C:\Users\joach\source\repos\3rdSemesterMandatoryAssignment\MSModelLibraryTest\obj\Debug\netcoreapp2.0\MSModelLibraryTest.dll
+C:\Users\joach\source\repos\3rdSemesterMandatoryAssignment\MSModelLibraryTest\obj\Debug\netcoreapp2.0\MSModelLibraryTest.pdb
